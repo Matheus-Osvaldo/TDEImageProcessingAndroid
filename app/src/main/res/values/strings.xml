@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TDEImageProcessing</string>
+    <string name="description_image">image</string>
+    <string name="label_btn_camera">Câmera</string>
+    <string name="label_btn_gallery">Galeria</string>
+    <string name="label_btn_convert_to_grayscale">Converter para grayscale</string>
+    <string name="msg_toast_no_camera_avaliable">No camera avaliable</string>
+    <string name="msg_toast_problem_to_get_from_gallery">Problem getting the image from the camera app</string>
+</resources>
